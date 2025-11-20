@@ -8,7 +8,7 @@
 
   <style>
     body {
-      background-image: url("img/fundo.jpg");
+      background-image: url("img/fotodiogo.jpg");
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -82,4 +82,5 @@
 
 </body>
 </html>
+
 
