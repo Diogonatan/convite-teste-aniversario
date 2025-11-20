@@ -66,7 +66,7 @@
     <p>Você está convidado para comemorar o meu aniversário!</p>
 
     <div class="detalhes">
-      <p><strong>Data:</strong> 20 de Novembro de 2025</p>
+      <p><strong>Data:</strong> 50 de Novembro de 2025</p>
       <p><strong>Hora:</strong> 19h00</p>
       <p><strong>Local:</strong> Minha Casa</p>
     </div>
@@ -82,3 +82,4 @@
 
 </body>
 </html>
+
